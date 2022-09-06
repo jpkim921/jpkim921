@@ -12,9 +12,28 @@ Thanks for taking the time to check my profile and feel free to reach out. I hav
 - [NFT Marketplace && Miner Smart Contracts](https://github.com/zapproject/hardhat-bsc)
 - [Marketplace SDK](https://github.com/zapproject/zappy/tree/develop)
 
-## Programming Language and Technologies
+## Tech Stack
+
+* Python
+* Django
+* FastApi
+* Solidity
+* Web3.js | Ethers.js
+* Hardhat | Truffle
+* Chai | Mocha 
+* Javascript
+* Typescript
+* React.js
+* Redux
+* Node.js
+* Redis
+* SQL
+* Docker
+* Heroku
+
+<!-- ## Programming Language and Technologies
  <img src = 'icons/python.svg' width='30'/>   <img src = 'icons/rust.svg' width='30'/>   <img src = 'icons/solidity.svg' height='30'/> <img src = 'icons/javascript.svg' height='30'/>  <img src = 'icons/typescript.svg' height='30'/>  <img src = 'icons/ruby.svg' width='30'/> <img src = 'icons/go.svg' width='40'/>  
- <img src = 'icons/django.svg' width='30'/>  <img src = 'icons/nodejs.svg' width='30'/>  <img src = 'icons/react.svg' width='30'/>  <img src = 'icons/fastapi.jpg' height='27' />  <img src = 'icons/hardhat.png' width='35'/>   <img src = 'icons/truffle.png' height='30'/>   <img src = 'icons/redis.svg' height='30'/>   <img src = 'icons/docker.svg' height='30'/>
+ <img src = 'icons/django.svg' width='30'/>  <img src = 'icons/nodejs.svg' width='30'/>  <img src = 'icons/react.svg' width='30'/>  <img src = 'icons/fastapi.jpg' height='27' />  <img src = 'icons/hardhat.png' width='35'/>   <img src = 'icons/truffle.png' height='30'/>   <img src = 'icons/redis.svg' height='30'/>   <img src = 'icons/docker.svg' height='30'/> -->
  
 ## Extra Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1qJopBH4wOOcHCCzFdwmBDeJH42-Ao60K/view?usp=sharing)
