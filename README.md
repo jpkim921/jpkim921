@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Jayon, a Blockchain Developer and Enthusiast
 
-Thanks for taking the time to check my profile and feel free to reach out. I have experience in Full Stack Web Development as well as started taking baby steps into dev ops. Eager to learn and explore different technologies, I believe in applying new tech and ideas to enhance products or contribute to society. I am extremely interested in the blockchain space and it's something I believe can and will help shape the future of the world. 
+Thanks for taking the time to check my profile and feel free to reach out. I have experience in Full Stack Web Development as well as Web3 development. Eager to learn and explore different technologies, I believe in applying new tech and ideas to enhance products or contribute to society. I am extremely interested in the blockchain space and it's something I believe can and will help shape the future of the world. 
 
 
-- 🌱 I’m currently learning about <b>the Solana ecosytem and smart contracts and the Rust programming language.</b>
-- 📫 How to reach me: Email me at jpkim921@gmail.com
+- 📫 Feel free to reach out at <jpkim921@gmail.com>
 - ⚡ Fun fact: I like to torture myself by riding my bike up hills...
 
 ### Experience
