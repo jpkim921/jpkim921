@@ -4,15 +4,18 @@ Thanks for taking the time to check my profile and feel free to reach out. I hav
 
 
 - 📫 Feel free to reach out at <jpkim921@gmail.com>
-- ⚡ Fun fact: I like to torture myself by riding my bike up hills...
 
 ### Experience
 - [Pythia](https://github.com/zapproject/pythia)
 - [NFT Marketplace && Miner Smart Contracts](https://github.com/zapproject/hardhat-bsc)
 - [Marketplace SDK](https://github.com/zapproject/zappy/tree/develop)
 
-## Tech Stack
+### Portfolio Projects
+- [Patient Tracker]
+- [Grocery Lookup]
 
+
+## Tech Stack
 * Python
 * Django
 * FastApi
